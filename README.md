@@ -1,5 +1,10 @@
 # ErrorDB-
-ye tool sim owner ki information jesy **Name**,**CNIC**,**Address** and **Sim ki Company** ki details deta ha.
+ye tool sim owner ki information jesy
+**Name**
+**CNIC**
+**Address**
+**Sim ki Company** 
+ki details deta ha.
 Ye tool **free** ha. 
 
 **INSTALLATION:**
@@ -7,13 +12,12 @@ Ye tool **free** ha.
 Copy paste commands:
 ```
 git clone https://github.com/Errorking404/ErrorDB-.git
-
 ```
 ```
 cd ErrorDB-
-
 ```
-```python Error.py
+```
+python Error.py
 ```
 
 **Disclaimer:**
