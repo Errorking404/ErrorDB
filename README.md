@@ -25,7 +25,7 @@ Ye tool free hai. Aur new number ka data nahi dega. Agar aap is tool ki script k
 **Author**
 > Error
 
-##Note:
+## Note:
 Mazeed aise tools ke liye hamara WhatsApp group join karein.
 
 **Link:**
