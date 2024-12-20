@@ -6,11 +6,11 @@ Ye tool **free** ha.
 
 Copy paste commands:
 ```
-git clone https:// 
+git clone https://github.com/Errorking404/ErrorDB-.git
 
 ```
 ```
-cd 
+cd ErrorDB-
 
 ```
 ```python Error.py
