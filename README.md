@@ -14,10 +14,15 @@ ki details deta hai. Ye tool **free** hai.
 ### Copy and Paste Commands
 
 ```
-git clone https://github.com/Errorking404/ErrorDB-.git
-cd ErrorDB-
+git clone https://github.com/Errorking404/ErrorDB.git
+cd ErrorDB
+python install.py
+```
+**Run:**
+```
 python Error.py
 ```
+
 
 **Disclaimer:**
 Ye tool free hai. Aur new number ka data nahi dega. Agar aap is tool ki script khud use karna chah rahe hain to repository ko fork aur star kar dain.
