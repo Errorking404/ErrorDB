@@ -14,8 +14,12 @@ ki details deta hai. Ye tool **free** hai.
 ### Copy and Paste Commands
 
 ```
+apt install git -y
+apt install python -y
+apt install python-pip -y
 git clone https://github.com/Errorking404/ErrorDB.git
 cd ErrorDB
+pip install -r requirements.txt
 python install.py
 ```
 **Run:**
