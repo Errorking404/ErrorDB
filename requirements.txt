@@ -2,3 +2,4 @@ subprocess
 json 
 requests
 Crypto 
+bs4 
